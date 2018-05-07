@@ -23,7 +23,7 @@
     "ztree",
 	"ajax",
 	"multiple"
-  ]
+  ],
   "browserslist": [
     "> 1%",
     "last 2 versions",
