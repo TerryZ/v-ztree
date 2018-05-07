@@ -1,6 +1,17 @@
-# v-ztree
+<h3 align="center">v-ztree</h3>
 
+<br><br>
+
+<p align="center">
 A simple tree for Vue2, support single or multiple(check) select tree, and support server side data
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/v-ztree"><img src="https://img.shields.io/npm/v/v-ztree.svg"></a>
+  <a href="https://mit-license.org/"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg"></a>
+  <a href="https://www.npmjs.com/package/v-ztree"><img src="https://img.shields.io/npm/dy/v-ztree.svg"></a>
+</p>
+<br><br><br><br><br>
 
 ## Install
 
