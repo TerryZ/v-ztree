@@ -6,6 +6,8 @@
 A simple tree for Vue2, support single or multiple(check) select tree, and support server side data
 </p>
 
+<p align="center"><img src="https://terryz.github.io/image/v-ztree/v-ztree.png" alt="v-ztree"></p>
+
 <p align="center">
   <a href="https://www.npmjs.com/package/v-ztree"><img src="https://img.shields.io/npm/v/v-ztree.svg"></a>
   <a href="https://mit-license.org/"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg"></a>
