@@ -53,6 +53,8 @@ export default {
             data: [{id:11, pId:1, name:"node1"},{id:11, pId:1, name:"node1"},{...}],
             //server side data
             //data: 'http://xxx.com/load'
+            //format server side return data, need format to an Array data type like local json data.
+            //dataFormat: (treeId, parentNode, resp)=>resp.values.treeData
         }
     },
     methods:{
