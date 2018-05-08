@@ -5,7 +5,7 @@ module.exports = {
   entry: './src/index.js',
   output: {
 	path: path.resolve(__dirname, './dist'),
-	publicPath: '/dist/',
+	publicPath: 'dist/',
 	filename: 'build.js',
 	filename: 'v-ztree.js',
 	library: 'vZtree',
@@ -66,8 +66,9 @@ module.exports = {
       },
       {
         test: /\.(png|jpg|gif|svg)$/,
-        loader: 'file-loader',
+        loader: 'url-loader',
         options: {
+		  limit: 30000,
           name: '[name].[ext]?[hash]'
         }
       }

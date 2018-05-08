@@ -1,7 +1,7 @@
 {
   "name": "v-ztree",
   "description": "A simple tree for Vue2, support single or multiple(check) select tree, and support server side data",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "author": "TerryZ <terry5@foxmail.com>",
   "license": "MIT",
   "main": "dist/v-ztree.js",
@@ -15,14 +15,14 @@
   },
   "keywords": [
     "front-end",
-	"javascript",
+    "javascript",
     "web",
     "vue",
     "vuejs",
     "tree",
     "ztree",
-	"ajax",
-	"multiple"
+    "ajax",
+    "multiple"
   ],
   "browserslist": [
     "> 1%",
@@ -39,6 +39,7 @@
     "file-loader": "^1.1.4",
     "node-sass": "^4.5.3",
     "sass-loader": "^6.0.6",
+    "url-loader": "^1.0.1",
     "vue-loader": "^13.0.5",
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
